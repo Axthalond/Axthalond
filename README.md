@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an honest and organized person whose passion for mechanical engineering is closely intertwined with my thirst for knowledge. My expertise encompasses machine design, fluid dynamics, industrial electronics, and software development which is the branch that captivates me the most. <br><br>Currently, I am engaged in backend learning through the ORACLE One program, where I am delving into Java, MySQL, Business Agility, and Spring Boot.<br><br>I find satisfaction in consistently embracing new challenges, harnessing my ingenuity and rapid learning capabilities to make optimal contributions to collaborative teams.
+I am a JavaScript developer with knowledge in JavaScript, TypeScript, agile methodologies, Java, both relational (SQL) and non-relational (MongoDB) databases, as well as front-end technologies like React, HTML, CSS, and proficiency in testing React applications and Express servers. I bring skills to the table, including teamwork, goal achievement, effective communication, and creative thinking. Additionally, I am proficient in English (C1). My goal is to pursue a long-term career path where I can collaborate with cross-functional teams to design, develop, and deploy software solutions in a company that prioritizes diversity and inclusion initiatives.
 
 
 ## 🌐 Socials:
